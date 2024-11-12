@@ -1,16 +1,16 @@
-# template_4_shortActivity (Replace for Course Title)
+# Medical Image Processing in Python
 
-### Medical Image Processing in Python
+### Medical Image Processing in Python Workshop
 
 ### Contributors
 
 |  |  |
 |--|--|
-|[![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0000-0000-0000) Candace Makeda Moore | ![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0000-0000-0000) Author Name |
+|[![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0001-7846-1147) Candace Makeda Moore | ![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0002-0823-0121) Giulia Crocioni |
 
 ### About this course
 
-This course teaches medical image processing in Python. 
+This course teaches medical image processing in Python. We use popular Python libraries for medical image processing such as SITK, pydicom and NiBabel. 
 
 
 ### Material license
@@ -40,7 +40,7 @@ Morning 1
 
 - [Presentations of this lesson](link)
 
-- [Data set for activities](link)
+- [Data set for activities](https://zenodo.org/records/13311246)
 
 ### Learning Outcomes
 
