@@ -1,16 +1,17 @@
 # template_4_shortActivity (Replace for Course Title)
 
-### Course Title
+### Medical Image Processing in Python
 
 ### Contributors
 
 |  |  |
 |--|--|
-|[![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0000-0000-0000) Author Name | ![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0000-0000-0000) Author Name |
+|[![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0000-0000-0000) Candace Makeda Moore | ![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0000-0000-0000) Author Name |
 
 ### About this course
 
-This course .... Add a general description
+This course teaches medical image processing in Python. 
+
 
 ### Material license
 
@@ -45,9 +46,9 @@ Morning 1
 
 Find out what you should be able to achieve after each session.
 
-- you should be able too ...... [Remember]
-- you should be able too ...... [Understand]
-- you should be able too ...... [Apply]
-- you should be able too ...... [Analyse]
-- you should be able too ...... [Evaluate]
-- you should be able too ...... [Create]
+- you should be able to ...... [Remember]
+- you should be able to ...... [Understand]
+- you should be able to ...... [Apply]
+- you should be able to ...... [Analyse]
+- you should be able to ...... [Evaluate]
+- you should be able to ...... [Create]
